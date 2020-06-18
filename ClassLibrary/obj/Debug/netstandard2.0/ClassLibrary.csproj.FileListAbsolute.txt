@@ -1,0 +1,9 @@
+D:\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+D:\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.pdb
+D:\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
+D:\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+D:\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.dll
+D:\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.pdb
+D:\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.CopyComplete
